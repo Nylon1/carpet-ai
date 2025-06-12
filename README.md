@@ -14,13 +14,17 @@ npm run dev
 
 Open [http://localhost:3000](http://localhost:3000) in your browser to view the app.
 
+ 5wm3j5-codex/configure-ai-as-carlo,-carpets-and-flooring-advisor
 You can edit the main page by modifying `app/page.tsx`. The overall HTML structure is defined in `app/layout.tsx`. Changes are reflected automatically while running the development server.
 
-## Learn More
+You can edit the main page by modifying `app/page.tsx`. Changes are reflected automatically while running the development server.
+ main
+
+ Learn More
 
 - [Next.js Documentation](https://nextjs.org/docs)
 - [Learn Next.js](https://nextjs.org/learn)
 
-## Deploy on Vercel
+ Deploy on Vercel
 
 Deploy the app to the Vercel Platform to share it online.
